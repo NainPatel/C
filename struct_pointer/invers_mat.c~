@@ -1,8 +1,0 @@
-//code is about A^-1
-#include<stdio.h>
-struct{
-	int n;
-	int a[n][n];
-}mat;
-
-

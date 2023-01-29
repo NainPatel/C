@@ -1,3 +1,3 @@
-#Wecome to my C programming repo.
+hello nain lodu
+chutiya
 
-I Love Linux:)

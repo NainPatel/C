@@ -60,8 +60,7 @@ int main()
 	int a[n][n];
 	int *p=a;
 	scan(n,p);
-	int **q;
-	*q=trans(n,p);
+	int **q=trans(n,p);
 	int i=check(n,p,*q);
 	if(i)
 		printf("ortho\n");
